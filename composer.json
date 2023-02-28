@@ -1,5 +1,5 @@
 {
-    "name": "rollbar/rollbar-laravel",
+    "name": "nocodelab/rollbar-laravel",
     "description": "Rollbar error monitoring integration for Laravel projects",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "error",
         "logging"
     ],
-    "homepage": "https://github.com/rollbar/rollbar-php-laravel",
+    "homepage": "https://github.com/nocodelab/rollbar-php-laravel",
     "license": "MIT",
     "authors": [
         {
